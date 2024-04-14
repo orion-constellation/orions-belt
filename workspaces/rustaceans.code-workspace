@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../Orion-Constellation/crawlimoar-rs"
+		},
+		{
+			"path": "../../identity-privacy/verida-js"
+		},
+		{
+			"path": "../Orion-Constellation/crawliriom-rs"
+		}
+	],
+	"settings": {
+		"rust-analyzer.linkedProjects": [
+			"./Cargo.toml"
+		]
+	}
+}
